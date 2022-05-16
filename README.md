@@ -1,5 +1,8 @@
 # Currency Converter
 
+## Онлайн-просмотр
+https://currency-converter-dmtr343.web.app/
+
 ## Описание
 
 Мини-приложение для просмотра и конвертации валют на основе json данных от ЦБ РФ.
